@@ -5949,11 +5949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\B3DesafioQAGFT\\TESTE\\TESTE\\TESTE.csproj",
+      "projectUniqueName": "C:\\B3DesafioQAGFT\\B3DesafioQAGFT\\TESTE\\TESTE.csproj",
       "projectName": "TESTE",
-      "projectPath": "C:\\B3DesafioQAGFT\\TESTE\\TESTE\\TESTE.csproj",
+      "projectPath": "C:\\B3DesafioQAGFT\\B3DesafioQAGFT\\TESTE\\TESTE.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\B3DesafioQAGFT\\TESTE\\TESTE\\obj\\",
+      "outputPath": "C:\\B3DesafioQAGFT\\B3DesafioQAGFT\\TESTE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

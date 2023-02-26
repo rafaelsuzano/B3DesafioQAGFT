@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XJl0NJl2rZ/gmJmDStuF2j3cqSCqX7wfwmtm84ehRbk7GNQTTdJNBI8qmi5RAwYRcr1kzoq6McLGrC31gFXgsQ==",
+  "dgSpecHash": "sBgYdBVZV6wTHWU9c/fwtcSqzBunyVx1skaNAfQOAxb2przOf6YlUt9FXZBkvQElncE39JqH+NZoFG67tkLyBg==",
   "success": true,
-  "projectFilePath": "C:\\B3DesafioQAGFT\\TESTE\\TESTE\\TESTE.csproj",
+  "projectFilePath": "C:\\B3DesafioQAGFT\\B3DesafioQAGFT\\TESTE\\TESTE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafae\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",
